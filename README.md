@@ -1,6 +1,6 @@
-# jupyterlab-stata-highlight
+# jupyterlab-gf-highlight
 
-Jupyterlab extension to highlight Stata syntax
+Jupyterlab extension to highlight GF/GLF syntax
 
 
 ## Prerequisites
@@ -12,7 +12,7 @@ Jupyterlab extension to highlight Stata syntax
 To install using pip:
 
 ```bash
-jupyter labextension install jupyterlab-stata-highlight
+jupyter labextension install jupyterlab-gf-highlight
 ```
 
 ## Development
