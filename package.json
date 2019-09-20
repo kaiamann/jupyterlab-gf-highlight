@@ -18,8 +18,8 @@
   },
   "scripts": {},
   "dependencies": {
-    "@jupyterlab/application": "^0.19.0",
-    "@jupyterlab/codemirror": "^0.19.1"
+    "@jupyterlab/application": "^1.0.0",
+    "@jupyterlab/codemirror": "^1.0.0"
   },
   "devDependencies": {}
 }
