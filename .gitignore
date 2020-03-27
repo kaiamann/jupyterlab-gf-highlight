@@ -2,6 +2,9 @@
 *.gf
 *.gfo
 
+# Node modules
+node_modules/
+
 # dot graph files
 *.dot
 *.out
